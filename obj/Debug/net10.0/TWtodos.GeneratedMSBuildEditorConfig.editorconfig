@@ -42,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/projetos/dotnet/meusTestes/TWtodos/Views/Teste/Teste2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcVGVzdGUyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/projetos/dotnet/meusTestes/TWtodos/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -9,4 +9,9 @@ public class TesteController : Controller
     {
         return View();
     }
+
+     public IActionResult Teste2()
+    {
+        return View();
+    }
 }
